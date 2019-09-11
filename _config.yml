@@ -1,0 +1,17 @@
+# Site settings
+title: Kwan Lab
+header-img: img/fetal-bg.jpg
+description: "The Kwan laboratory at the University of Michigan for the study of cerebral cortical development, evolution, and dysfunction."
+baseurl: ""
+url: "http://kwanlab.org"
+twitter_username: kwanlab
+github_username:  thekwanlab
+
+# Google Analytics
+google_tracking_id: UA-64316769-1
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+exclude: ["less","node_modules","Gruntfile.js","*.json","README.md","Gemfile","*.lock"]
