@@ -1,14 +1,14 @@
 # Site settings
-title: Kwan Lab
+title: Breunig Lab
 header-img: img/fetal-bg.jpg
-description: "The Kwan laboratory at the University of Michigan for the study of cerebral cortical development, evolution, and dysfunction."
+description: "The Breunig Laboratory is investigating the molecular mechanisms that govern the generation of the central nervous system from neural stem cells."
 baseurl: ""
-url: "http://kwanlab.org"
-twitter_username: kwanlab
-github_username:  thekwanlab
+url: "http://TheBreunigLab.com"
+twitter_username: breuniglab
+github_username:  JBreunig
 
 # Google Analytics
-google_tracking_id: UA-64316769-1
+## Paul - We need our own google tracking ID google_tracking_id: UA-64316769-1
 
 # Build settings
 markdown: kramdown
