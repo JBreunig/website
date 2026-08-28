@@ -3,22 +3,13 @@ layout: default
 order: 0
 ---
 
-<!-- Page Header -->
-<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <div class="site-heading">
-                    <img src="{{ site.baseurl }}/img/logos/kwanlogo.png"
-                         srcset="{{ site.baseurl }}/img/logos/kwanlogo2x.png 2x"
-                         class="center-block"
-                         alt="kwan lab">
-                    <hr class="small">
-                    <span class="subheading">{{ page.description }}</span>
-                </div>
-            </div>
-        </div>
-    </div>
+<header class="wake-hero" style="background-image: linear-gradient(rgba(14,25,36,.54), rgba(14,25,36,.72)), url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+  <div class="wake-hero-inner">
+    <div class="wake-kicker">Wake Forest University School of Medicine · Department of Cancer Biology</div>
+    <h1>BREUNIG LAB</h1>
+    <p class="wake-tagline">Engineering the developing and diseased brain</p>
+    <a class="wake-button" href="{{ site.baseurl }}/research/">Explore our research</a>
+  </div>
 </header>
 
 {{ content }}

@@ -1,17 +1,14 @@
 # Site settings
 title: Breunig Lab
-header-img: img/fetal-bg.jpg
-description: "The Breunig Laboratory is investigating the molecular mechanisms that govern the generation of the central nervous system from neural stem cells."
-baseurl: ""
-url: "http://TheBreunigLab.com"
+header-img: img/main-page-background.jpg
+description: "The Breunig Laboratory at Wake Forest University School of Medicine studies neural development, brain cancer, cell identity, and new technologies for somatic and genome engineering."
+baseurl: "/website"
+url: "https://jbreunig.github.io"
 twitter_username: breuniglab
-github_username:  JBreunig
-
-# Google Analytics
-## Paul - We need our own google tracking ID google_tracking_id: UA-64316769-1
+github_username: JBreunig
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
-exclude: ["less","node_modules","Gruntfile.js","*.json","README.md","Gemfile","*.lock"]
+exclude: ["less","node_modules","Gruntfile.js","*.json","README.md","Gemfile","*.lock","CNAME"]

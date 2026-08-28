@@ -5,8 +5,28 @@ header-img: "img/neuron-bg.jpg"
 order: 1
 ---
 
-Evolution of the cerebral cortex is thought to underlie our species’ most remarkable cognitive, perceptive, and motor capabilities, the execution of which depends on the precise establishment of connectivity during development. Miswiring of cortical circuitry can lead to disorders, including autism and schizophrenia, that affect the most distinctly human cognitive functions.
+<div class="wake-research-list">
 
-Research in the Kwan laboratory is aimed at the molecular and cellular mechanisms that underlie normal neural circuit assembly in the cerebral cortex and their dysregulation in human neurodevelopmental disorders, in particular autism spectrum disorder, fragile X syndrome, and schizophrenia. Our work examines both fundamental and pathogenic mechanisms that can lead to in vivo consequences on neural circuit development and function. Our two overarching goals are: 1) to understand the mechanisms by which neural progenitor cells give rise to diverse repertoires of cortical neuronal subtypes; and 2) to understand the mechanisms that ultimately wire cortical neurons into functional neural circuits. We use an integrative approach at the interface of mouse genetics, functional genomics, molecular biology, and circuit neurobiology. As the pace of genetic discoveries in brain disorders accelerates, we are ideally positioned to generate mechanistic knowledge into normal cortical development and neurodevelopmental disorders.
+The Breunig Lab studies how developmental programs establish cell identity in the nervous system, how those programs are altered in brain cancer, and how new genetic technologies can be used to model and manipulate these processes.
 
-![GFP on neocortical circuitry]({{ site.baseurl }}/img/research_1.jpg){: .center-block}
+## Somatic and Genome Engineering
+
+We develop genetic strategies for precise manipulation of cell identity and disease-associated pathways in vivo. Our work includes somatic transgenesis, programmable gene regulation, and technologies that enable complex genetic models without relying exclusively on traditional germline engineering.
+
+## Brain Tumor Biology and Therapeutics
+
+Brain tumors frequently co-opt developmental pathways to support aberrant self-renewal, plasticity and treatment resistance. We build genetically defined models of pediatric and adult brain tumors to investigate tumor initiation, cellular heterogeneity, metabolism, immune interactions and therapeutic vulnerabilities.
+
+## Neural Development and Cell Identity
+
+Neural stem and progenitor cells generate the extraordinary diversity of neurons and glia in the brain. We investigate the molecular mechanisms that control these fate decisions and use this information to understand both normal development and disease.
+
+## Human Organoids, Single-Cell and Spatial Genomics
+
+We combine iPSC-derived cerebral organoids with single-cell, multimodal and spatial genomic approaches to study human neural development and brain cancer. These systems allow us to connect genetic perturbations with cell states, lineage relationships and tissue organization.
+
+## Building Better Models
+
+A central goal across the lab is to create experimental systems that more faithfully represent the genetics and cellular complexity of human disease. These models provide platforms for mechanistic discovery, therapeutic testing and the development of new engineering strategies.
+
+</div>
