@@ -2,8 +2,8 @@
 title: Breunig Lab
 header-img: img/main-page-background.jpg
 description: "The Breunig Laboratory at Wake Forest University School of Medicine studies neural development, brain cancer, cell identity, and new technologies for somatic and genome engineering."
-baseurl: ""
-url: "https://breuniglab.com"
+baseurl: "/website"
+url: "https://jbreunig.github.io"
 twitter_username: breuniglab
 github_username: JBreunig
 
@@ -11,4 +11,4 @@ github_username: JBreunig
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
-exclude: ["less","node_modules","Gruntfile.js","*.json","README.md","Gemfile","*.lock"]
+exclude: ["less","node_modules","Gruntfile.js","*.json","README.md","Gemfile","*.lock","CNAME"]
